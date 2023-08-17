@@ -16,22 +16,22 @@ const songs = [
   {
     title: 'Green Chair',
     artist: 'Diego Nava',
-    coverPath: 'assets/images/cover1.jpg',
-    discPath: 'assets/music/music1.mp3',
+    coverPath: 'cover1.jpg',
+    discPath: 'music1.mp3',
     duration: '1:33',
   },
   {
     title: 'Dance with Me',
     artist: 'Ahjay Stelino',
-    coverPath: 'assets/images/cover2.jpg',
-    discPath: 'assets/music/music2.mp3',
+    coverPath: 'cover2.jpg',
+    discPath: 'music2.mp3',
     duration: '2:22',
   },
   {
     title: 'Gimme that Bottle',
     artist: 'Michael Ramir',
-    coverPath: 'assets/images/cover3.jpg',
-    discPath: 'assets/music/music3.mp3',
+    coverPath: 'cover3.jpg',
+    discPath: 'music3.mp3',
     duration: '1:54',
   },
 ];
